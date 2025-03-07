@@ -1,0 +1,12 @@
+[project]
+name = "constants"
+version = "0.1.0"
+description = "Constants for Python"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "black>=25.1.0",
+]
